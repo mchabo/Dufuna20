@@ -1,2 +1,3 @@
 Hello world 
-My name is Mwaba Chabo
+My name is Mwaba Chabo, I live in Marshlands near the University of Zambia.
+I have been able to push my first task to git hub.
